@@ -50,8 +50,7 @@ Charles Liu
 👋 Hi, I'm Charles.
 </h1>
 <p class="txt-large">
-I'm an aspiring software engineer currently studying at the University of Toronto. In my spare time I enjoy DIY,
-gaming and building my own projects. My preferred tools are PHP, Laravel and Vue.js.
+I'm an aspiring software engineer currently studying at the University of Toronto for a Computer Engineering Major and a Minor in Artificial Intelligence Engineering. My main interests are the combination of machine learning, web development, and embedded/IoT firmware. My preferred tools are Python, C/C++, and JavaScript (React/Node). I am a creative problem-solver who loves to diverge and explore unconventional solutions. I am a collaborative team member who strives to bring the most out of my teammates when solving problems together. In my spare time, I enjoy playing basketball, obsessively reading Wikipedia, and building my own projects.
 </p>
 <p>
 I'm on <a href="https://github.com/chaliuu" target="_blank">GitHub</a> and <a href="https://www.linkedin.com/in/charles-ch-liu/" target="_blank">LinkedIn</a>.
