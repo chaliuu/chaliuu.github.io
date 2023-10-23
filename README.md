@@ -26,7 +26,7 @@
 <header class="header">
 <div class="header__section header__section--media">
 
-<a class="logo" href="https://chaliuu.github.io/">
+<a class="logo">
 <picture>
 <img width="150" height="150" src="Images/self.jpg" alt="Headshot of Charles Liu">
 </picture>
