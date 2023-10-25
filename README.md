@@ -24,6 +24,7 @@
 </head>
 <body>
 <div class="wrap">
+
 <header class="header">
 <div class="header__section header__section--media">
 
@@ -46,6 +47,7 @@ Charles Liu
 <nav class="menu">
     <a class="menu__item " href="CharlesLiu_Software_Developer_Intern_Resume.pdf">
     Resume
+    </a>
 </nav>
 </div>
 
