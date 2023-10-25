@@ -1,3 +1,4 @@
+<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -26,7 +27,7 @@
 <header class="header">
 <div class="header__section header__section--media">
 
-<a class="logo">
+<a class="logo" href="https://chaliuu.github.io/">
 <picture>
 <img width="150" height="150" src="Images/self.jpg" alt="Headshot of Charles Liu">
 </picture>
@@ -34,23 +35,30 @@
 Charles Liu
 </span>
 </a>
-
 </div>
+
 <div class="header__section header__section--menu">
 <a class="logo" href="https://chaliuu.github.io/">
 <span class="logo__text">
 Charles Liu
 </span>
 </a>
+<nav class="menu">
+    <a class="menu__item " href="CharlesLiu_Software_Developer_Intern_Resume.pdf">
+    Resume
+</nav>
 </div>
+
 </header>
+
 <section class="mb-huge">
 <div class="box wysiwyg">
 <h1>
 👋 Hi, I'm Charles.
 </h1>
 <p class="txt-large">
-I'm an aspiring software engineer currently studying at the University of Toronto for a Computer Engineering Major and a Minor in Artificial Intelligence Engineering. My main interests are the combination of machine learning, web development, and embedded/IoT firmware. My preferred tools are Python, C/C++, and JavaScript (React/Node). I am a creative problem-solver who loves to diverge and explore unconventional solutions. I am a collaborative team member who strives to bring the most out of my teammates when solving problems together. In my spare time, I enjoy playing basketball, obsessively reading Wikipedia, and building my own projects.
+I'm an aspiring software engineer currently studying at the University of Toronto for a Computer Engineering Major and a Minor in Artificial Intelligence Engineering. My main interests are the combination of machine learning, web development and embedded/IoT firmware. My preferred tools are Python, C/C++, and JavaScript (React/Node). I am a creative problem-solver that love to diverge and explore unconventional solitions. I am a collaborative team member that strives to bring the most out of my teammates when solving problems together. In my spare time I enjoy playing basketball,
+obsessively reading wikipedia and building my own projects. 
 </p>
 <p>
 I'm on <a href="https://github.com/chaliuu" target="_blank">GitHub</a> and <a href="https://www.linkedin.com/in/charles-ch-liu/" target="_blank">LinkedIn</a>.
