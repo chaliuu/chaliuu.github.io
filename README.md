@@ -55,8 +55,7 @@ Charles Liu
 👋 Hi, I'm Charles.
 </h1>
 <p class="txt-large">
-I'm a software engineer co-op currently working at <a href="https://www.ecobee.com/en-us" target="_blank">ecobee</a>. I am also an undergraduate student at the <a href="https://www.utoronto.ca">University of Toronto</a> puring a major in Computer Engineering a minor in Artificial Intelligence Engineering. My main interests are the combination of backend, networking, systems design, infrastructure, and embedded firmware. My preferred tools are Python, C/C++, C#, and JavaScript (React/Node). I am a creative problem-solver that love to diverge and explore unconventional solitions. I am also a collaborative team member that strives to bring the most out of my teammates when solving problems together. In my spare time I enjoy playing basketball,
-obsessively reading wikipedia and building my own projects. 
+I'm a software engineer co-op currently working at <a href="https://www.ecobee.com/en-us" target="_blank">ecobee</a>. I am also an undergraduate student at the <a href="https://www.utoronto.ca">University of Toronto</a>, pursuing a major in Computer Engineering and a minor in Artificial Intelligence Engineering. My main interests are the combination of backend, networking, systems design, infrastructure, and embedded firmware. My preferred tools are Python, C/C++, C#, and JavaScript (React/Node). I am a creative problem-solver who loves to diverge and explore unconventional solutions. I am also a collaborative team member who strives to bring out the best in my teammates when solving problems together. In my spare time, I enjoy playing basketball, obsessively reading Wikipedia, and building my own projects.
 </p>
 <p>
 I'm on <a href="https://github.com/chaliuu" target="_blank">GitHub</a> and <a href="https://www.linkedin.com/in/charles-ch-liu/" target="_blank">LinkedIn</a>.
